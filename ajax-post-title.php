@@ -8,7 +8,7 @@
  */
 /*
   Plugin Name: Ajax Post Title
-  Plugin URI: https://bitbucket.org/
+  Plugin URI: https://github.com/actual-saurabh/ajax-post-title
   Description: Loads Post Title via Ajax
   Version: 0.1
   Author: saurabhshukla
